@@ -24,10 +24,11 @@ Follow these instructions to get a copy of the project up and running on your lo
    git clone https://github.com/abdulra7ma/order_app_mobile_app.git
    cd dart-order-app 
    ```
-   1. Install dependencies:
-   ```bash
-   dart pub get
-   ```
+
+1. Install dependencies:
+```bash
+dart pub get
+```
 
 ### Running the App
 To run the Dart Order App, use the following command:
